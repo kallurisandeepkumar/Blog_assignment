@@ -80,3 +80,7 @@ The application uses [JSONPlaceholder](https://jsonplaceholder.typicode.com) for
 - Detailed view of individual posts
 - Back navigation
 - Loading and error states
+
+### Deployed
+https://blogsassignment.netlify.app/
+
