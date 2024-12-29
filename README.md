@@ -82,5 +82,5 @@ The application uses [JSONPlaceholder](https://jsonplaceholder.typicode.com) for
 - Loading and error states
 
 ### Deployed
-https://blogsassignment.netlify.app/
+[deployed here](https://verdant-cuchufli-762c1a.netlify.app/)
 
